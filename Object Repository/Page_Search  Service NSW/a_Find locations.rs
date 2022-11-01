@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Find locations</name>
+   <tag></tag>
+   <elementGuidId>f4b14bf7-2ac8-4f2f-9e06-9962d4f33803</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mobile-menu-kkoqho0t']/nav/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>35f90bcb-936d-4d14-86c8-a4b57ee229b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.service.nsw.gov.au/service-centre</value>
+      <webElementGuid>7199fcc1-006a-4e2a-b68e-ac7621a88fd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>NavLink__link-M-HSy9SYcc</value>
+      <webElementGuid>297cff92-b9fe-4280-b324-d4a65a290aec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find locations</value>
+      <webElementGuid>4cc6f9c0-838a-4398-aaeb-722952817f06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mobile-menu-kkoqho0t&quot;)/nav[1]/ul[@class=&quot;MobileNav__list-FRBlsRWCmw&quot;]/li[@class=&quot;NavLink__listItem-VYVwsaNaTG&quot;]/a[@class=&quot;NavLink__link-M-HSy9SYcc&quot;]</value>
+      <webElementGuid>928ea652-3c1d-478d-bb02-81e6217995ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mobile-menu-kkoqho0t']/nav/ul/li[4]/a</value>
+      <webElementGuid>ed081e74-7ee5-45e7-8bf3-fd46d8ca2035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Find locations')])[2]</value>
+      <webElementGuid>004b7dad-73e1-4f15-976e-24df32574425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business'])[2]/following::a[1]</value>
+      <webElementGuid>80bf72a0-28c6-4c9b-acd1-5e7bf20663da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse services'])[2]/following::a[2]</value>
+      <webElementGuid>9f07c82a-9ead-4817-aed1-0a716968771e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MyServiceNSW Account'])[2]/preceding::a[1]</value>
+      <webElementGuid>00b5f2d0-36c5-46d7-889d-ebba70aadd73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change language'])[2]/preceding::a[2]</value>
+      <webElementGuid>948c3cac-1beb-47c0-b54e-569334b72f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.service.nsw.gov.au/service-centre')])[2]</value>
+      <webElementGuid>3bfdcee9-4833-4c60-8bf9-2f699b15b5dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/nav/ul/li[4]/a</value>
+      <webElementGuid>0be6a7ae-433a-4420-9c1b-3d4eccafd28f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.service.nsw.gov.au/service-centre' and (text() = 'Find locations' or . = 'Find locations')]</value>
+      <webElementGuid>a2a864d7-89a8-460d-846e-8d7346053eec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

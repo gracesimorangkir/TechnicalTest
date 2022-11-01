@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_apply for a number plate_button butt_2c4e78</name>
+   <tag></tag>
+   <elementGuidId>fa3b9f3c-ea58-4f66-956c-7b88ed5d49ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.button--primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9d0ad631-9751-432e-bad9-7122642e246c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--primary</value>
+      <webElementGuid>13cb9e47-4cff-4dbd-acda-10d6efe69482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>83080501-7cee-4677-b831-56e8d68d7947</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>d71c5747-ebd2-4400-a492-89cbd67e2e5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-content&quot;)/article[@class=&quot;landing-page toc-container&quot;]/section[@class=&quot;personalised-content&quot;]/div[@class=&quot;region&quot;]/div[@class=&quot;personalised-variant block&quot;]/header[@class=&quot;page-hero page-hero--search&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;page-hero__title page-hero--offset&quot;]/form[@class=&quot;form--hero-search-group form__input-group&quot;]/div[@class=&quot;form__actions&quot;]/button[@class=&quot;button button--primary&quot;]</value>
+      <webElementGuid>dbae462c-5d5c-449b-9834-730fbf5762da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[3]</value>
+      <webElementGuid>ab7131ec-ca70-4abd-990f-2e03ee0d43a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-content']/article/section/div/div/header/div[2]/div/form/div[2]/button</value>
+      <webElementGuid>da1edca6-7648-4347-908d-61b303d9a366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='apply for a number plate'])[1]/following::button[1]</value>
+      <webElementGuid>b5a1dc09-637d-4ead-b2d8-623570c955a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service NSW makes it easier to find government information and services'])[1]/following::button[1]</value>
+      <webElementGuid>8f6d939c-39b9-4c91-bc29-647c317b0521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Service NSW, Woy Woy'])[1]/preceding::button[1]</value>
+      <webElementGuid>3d93d8f5-7d3c-413e-acd7-4660dbe10e0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Service NSW, Albury'])[1]/preceding::button[2]</value>
+      <webElementGuid>eac9368f-f751-43c5-8913-9d7e58fde77d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/form/div[2]/button</value>
+      <webElementGuid>66d554b6-8fea-4de5-ba45-2128b08bc8cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit']</value>
+      <webElementGuid>c367bf1a-d5a0-4eae-82e6-75e04ce87068</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
