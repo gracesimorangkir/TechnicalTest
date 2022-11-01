@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Marrickville Service Centre</name>
+   <tag></tag>
+   <elementGuidId>e803bfe8-e06b-4ca4-baa5-968aa063881f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='locatorListView']/div/div/div[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f185e71c-ede1-40d2-aff3-8476f82968fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>location__title</value>
+      <webElementGuid>f3b4e733-af63-4047-8db6-17ec45f054b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/service-centre/marrickville-service-centre</value>
+      <webElementGuid>7cb83ac0-f3cd-465e-9698-a69c96a2c3ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marrickville Service Centre </value>
+      <webElementGuid>0486135b-4c08-4f94-9799-2f3cfcabfc45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;locatorListView&quot;)/div[@class=&quot;locator__results&quot;]/div[@class=&quot;locator__results-list&quot;]/div[@class=&quot;location&quot;]/a[@class=&quot;location__title&quot;]</value>
+      <webElementGuid>acef5c60-a393-482a-88a6-a702cc8cc114</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='locatorListView']/div/div/div[4]/a</value>
+      <webElementGuid>170e4071-65e7-4ec2-aeff-ec0ca841c6fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Marrickville Service Centre')]</value>
+      <webElementGuid>28af2e48-4f93-4db3-a53e-44c875eab6af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maritime transactions only'])[1]/following::a[1]</value>
+      <webElementGuid>98b01dca-165f-436f-910a-61586d3befb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open 9am to 5:30pm'])[1]/preceding::a[1]</value>
+      <webElementGuid>6e4f963b-24ea-4f18-9618-8f93b8748144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bondi Junction Service Centre'])[1]/preceding::a[1]</value>
+      <webElementGuid>823c4bd8-6dcf-4f0a-ae90-c945f810a8e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Marrickville Service Centre']/parent::*</value>
+      <webElementGuid>183c9454-4d2c-448d-ac45-d4dc8d74ca6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/service-centre/marrickville-service-centre')]</value>
+      <webElementGuid>32a6da49-7ff7-4975-8808-b37d8e3589b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>6dfc3f39-449b-420d-a37d-a291a635a609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/service-centre/marrickville-service-centre' and (text() = 'Marrickville Service Centre ' or . = 'Marrickville Service Centre ')]</value>
+      <webElementGuid>a1c17f9e-b313-41cc-80a9-50ed05bda55f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
