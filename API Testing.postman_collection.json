@@ -1,0 +1,81 @@
+{
+	"info": {
+		"_postman_id": "c777efc5-be99-4dd0-9bb6-37b56ff134a2",
+		"name": "API Testing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23296635"
+	},
+	"item": [
+		{
+			"name": "https://api.weatherbit.io/v2.0/current?lat=40.730610%20&lon=-73.935242&key=136073d283fb48feadb638f6b86dcf78",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.weatherbit.io/v2.0/current?lat=40.730610%20&lon=-73.935242&key=136073d283fb48feadb638f6b86dcf78",
+					"protocol": "https",
+					"host": [
+						"api",
+						"weatherbit",
+						"io"
+					],
+					"path": [
+						"v2.0",
+						"current"
+					],
+					"query": [
+						{
+							"key": "lat",
+							"value": "40.730610%20"
+						},
+						{
+							"key": "lon",
+							"value": "-73.935242"
+						},
+						{
+							"key": "key",
+							"value": "136073d283fb48feadb638f6b86dcf78"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://api.weatherbit.io/v2.0/current?lat=40.730610%20&lon=-73.935242&key=136073d283fb48feadb638f6b86dcf78",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.weatherbit.io/v2.0/forecast/hourly?postal_code=28546&hours=3&key=136073d283fb48feadb638f6b86dcf78",
+					"protocol": "https",
+					"host": [
+						"api",
+						"weatherbit",
+						"io"
+					],
+					"path": [
+						"v2.0",
+						"forecast",
+						"hourly"
+					],
+					"query": [
+						{
+							"key": "postal_code",
+							"value": "28546"
+						},
+						{
+							"key": "hours",
+							"value": "3"
+						},
+						{
+							"key": "key",
+							"value": "136073d283fb48feadb638f6b86dcf78"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
